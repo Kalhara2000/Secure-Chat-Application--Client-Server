@@ -31,8 +31,8 @@ SecureCom/
 <h2>🖥️ Server Setup</h2>
 
 <h3>1️⃣ Clone the Repo</h3>
-<pre><code>git clone https://github.com/your-username/SecureCom.git
-cd SecureCom</code></pre>
+<pre><code>https://github.com/Kalhara2000/Secure-Chat-Application--Client-Server.git
+cd Secure-Chat-Application--Client-Server</code></pre>
 
 <h3>2️⃣ Generate SSL Certificate (if missing)</h3>
 <pre><code>mkdir certs
@@ -138,8 +138,8 @@ openssl req -new -x509 -days 365 -nodes -out certs/server.crt -keyout certs/serv
 <h2>📬 Contact & Credits</h2>
 <p>Created by <strong>Thamindu Kalhara</strong></p>
 <p>
-LinkedIn: <a href="https://linkedin.com/in/your-profile">your-profile</a><br/>
-GitHub: <a href="https://github.com/your-username">your-username</a>
+LinkedIn: <a href="https://www.linkedin.com/in/ktdt-kalhara/">Thamindu Kalhara</a><br/>
+GitHub: <a href="https://github.com/Kalhara2000">Kalhara2000</a>
 </p>
 
 <p>#Python #SSL #SecureCommunication #LANChat #Tkinter #Networking #LocalNetwork #CyberSecurity #SocketProgramming</p>
