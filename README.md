@@ -124,6 +124,14 @@ openssl req -new -x509 -days 365 -nodes -out certs/server.crt -keyout certs/serv
 
 <hr/>
 
+ <h2>📷 Screenshots</h2>
+  <p>
+    <img width="800" height="355" alt="1749479534924" src="https://github.com/user-attachments/assets/bc681e09-6846-401e-9b71-b968b309a03d" />
+    <img width="638" height="627" alt="1749479763838" src="https://github.com/user-attachments/assets/76425243-9ed9-45e0-8b7c-7dcf4cea9a00" />
+  </p>
+  
+<hr/>
+
 <h2>🔮 Future Upgrades</h2>
 <ul>
   <li>🔐 User login with authentication</li>
